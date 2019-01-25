@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="dr_x5F_doom_x5F_icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" viewBox="0 0 1000 1000" style="enable-background:new 0 0 1000 1000;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#821821;}
+	.st1{fill:#40673A;}
+	.st2{opacity:0.15;fill:#FFFFFF;}
+</style>
+<g id="circles">
+	<circle id="outer_x5F_circle" class="st0" cx="500" cy="500.5" r="500"/>
+	<circle id="inner_x5F_circle" cx="500" cy="500.5" r="450"/>
+</g>
+<path id="doom" class="st1" d="M287.7,368l190.8,197.3l-178.7,290l-36.3-211l-166.5-160L284.8,173L287.7,368z M712.3,368
+	L521.6,565.4l178.7,290l36.3-211l166.5-160L715.2,173L712.3,368z M501.4,576.4L441,726h120.5L501.4,576.4z"/>
+<path id="glare_1_" class="st2" d="M146.4,854.1c-195.3-195.3-195.3-511.8,0-707.1s511.8-195.3,707.1,0
+	C682.1,446.2,441.2,676.8,146.4,854.1z"/>
+</svg>
