@@ -1,20 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="deadpool_x5F_icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+<svg version="1.1" id="deadpool_icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
 	 y="0px" viewBox="0 0 1000 1000" style="enable-background:new 0 0 1000 1000;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#BA1515;}
 	.st1{fill:#FFFFFF;}
 	.st2{opacity:0.15;fill:#FFFFFF;}
+
+	#deadpool_icon:hover{
+	cursor: pointer;
+	}
 </style>
 <g id="circles">
-	<circle id="outer_x5F_circle" cx="500" cy="500.5" r="500"/>
-	<circle id="inner_x5F_circle" class="st0" cx="500" cy="500.5" r="450"/>
+	<circle id="outer_circle" cx="500" cy="500.5" r="500"/>
+	<circle id="inner_circle" class="st0" cx="500" cy="500.5" r="450"/>
 </g>
 <path id="mask" d="M448.6,872C265.8,846.9,125,690.2,125,500.5S265.8,154.1,448.6,129V872z M548.6,128.6v743.8
 	C732.7,848.6,875,691.1,875,500.5S732.7,152.4,548.6,128.6z"/>
 <path id="eyes" class="st1" d="M613.8,611.5L817,480.3C817,480.3,758.6,744.7,613.8,611.5z M383.3,611.5L180.2,480.3
 	C180.2,480.3,238.5,744.7,383.3,611.5z"/>
-<path id="glare_1_" class="st2" d="M146.4,854.1c-195.3-195.3-195.3-511.8,0-707.1s511.8-195.3,707.1,0
+<path id="glare" class="st2" d="M146.4,854.1c-195.3-195.3-195.3-511.8,0-707.1s511.8-195.3,707.1,0
 	C682.1,446.2,441.2,676.8,146.4,854.1z"/>
 </svg>
