@@ -6,10 +6,12 @@
 	display: none;
 }
 
+/*Sets background colour*/
 body{
 	background-color: #D3D3D3;
 }
 
+/*Sets website size and attributes*/
 #container{
 	width: 960px;
 	margin: 0 auto;
@@ -17,18 +19,21 @@ body{
 	box-shadow: 0px 20px 20px rgba(0,0,0,.5);
 }
 
+/*Sets header as flex object*/
 #mainHeader{
 	padding-top: 5px;
 	display: flex;
 	flex-direction: row;
 }
 
+/*Scales and positions logo*/
 #headerLogo{
 	width: 200px;
 	padding-left: 20px;
 	position: absolute;
 }
 
+/*Sets size and colour of nav*/
 #mainNav{
 	background-color: #0A0E7D;
 	width: 960px;
@@ -36,17 +41,20 @@ body{
 	margin-top: 40px;
 }
 
+/*Sets nav button positions and removes underline*/
 #mainNav ul{
 	list-style: none;
 	padding-left: 280px;
 	padding-top: 15px;
 }
 
+/*Displays nav buttons in a row and creates space between them*/
 #mainNav ul li{
 	display: inline;
 	padding-right: 70px;
 }
 
+/*Sets look of nav buttons*/
 #mainNav ul li a{
 	text-decoration: none;
 	color: #fff;
@@ -56,23 +64,27 @@ body{
 	transition: all 0.25s;
 }
 
+/*Changes what nav buttons look like when you hover over one*/
 #mainNav ul li a:hover{
 	color: #EACB11;
 	border-bottom: 9px solid #EACB11;
 }
 
+/*Sets position of the icon description section*/
 #iconDescription{
 	margin-top: 40px;
 	padding-left: 50px;
 	padding-right: 50px;
 }
 
+/*Sets look of icon description heading*/
 #iconDescription h2{
 	text-transform: uppercase;
 	font-size: 42px;
 	font-family: 'Staatliches', cursive;
 }
 
+/*Sets look of icon description paragraph*/
 #iconDescription p{
 	font-size: 18px;
 	font-family: 'Raleway', sans-serif;
@@ -80,6 +92,7 @@ body{
 	margin-top: 15px;
 }
 
+/*Sets position of the icons and makes a flex container*/
 #icons{
 	width: 960px;
 	margin-top: -20px;
@@ -88,6 +101,7 @@ body{
 	flex-wrap: wrap;
 }
 
+/*Sets size of icon containers and creats flex containers so that they are centered*/
 .iconContainer{
     width: 240px;
 	height: 240px;
@@ -96,6 +110,7 @@ body{
 	justify-content: center;
 }
 
+/*Sets size of icon wrapper*/
 .iconWrapper{
 	margin: 0 auto;
 	width: 150px;
@@ -103,26 +118,31 @@ body{
 	transition: all 0.5s ease;
 }
 
+/*Increases size of icons when hovered over*/
 .iconWrapper:hover{
 	transform: scale(1.2);
 	transform-origin: 50% 50%;
 }
 
+/*Sets icons to display in grayscale*/
 .marvelIcon{
 	filter: grayscale(1);
 	transition: all 0.5s ease;
 }
 
+/*Changes icons to colour when hovered over*/
 .marvelIcon:hover{
 	filter: grayscale(0);
 }
 
+/*Sets colour and size of footer*/
 #mainFooter{
 	background-color: #0A0E7D;
 	width: 960px;
 	height: 40px;
 }
 
+/*Sets look and position of footer text*/
 #mainFooter p{
 	font-family: 'Raleway', sans-serif;
 	color: white;
