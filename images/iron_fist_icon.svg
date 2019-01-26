@@ -1,15 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="iron_x5F_fist_x5F_icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+<svg version="1.1" id="iron_fist_icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
 	 x="0px" y="0px" viewBox="0 0 1000 1000" style="enable-background:new 0 0 1000 1000;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:#FFDF1B;stroke:#FFDF1B;stroke-miterlimit:10;}
 	.st1{fill:#01893D;stroke:#FFDF1B;stroke-miterlimit:10;}
 	.st2{opacity:0.15;fill:#FFFFFF;}
+
+	#iron_fist_icon:hover{
+	cursor: pointer;
+	}
 </style>
 <g id="circles">
-	<circle id="outer_x5F_circle" class="st0" cx="500" cy="500.5" r="500"/>
-	<circle id="inner_x5F_circle" class="st1" cx="500" cy="500.5" r="450"/>
+	<circle id="outer_circle" class="st0" cx="500" cy="500.5" r="500"/>
+	<circle id="inner_circle" class="st1" cx="500" cy="500.5" r="450"/>
 </g>
 <path id="dragon" d="M448.1,192.2c3.2-6.8-7.2-40.7-7.8-11.9c-0.8,32.2-28.8,30.3-28.8,30.3s-10.7,22.2-18.9,46
 	c-8.2,23.8-3.3,83,9,34.5c12.3-48.5,64.1-89.6,64.1-89.6c70.7-51,69.9,5.8,69.9,5.8c5.8,148-129.7,274.3-245.8,217.9
@@ -22,6 +26,6 @@
 	c237.6,32.1,252.4,160.3,252.4,160.3C726.4,402.2,601,426.3,601,426.3c-125.2,20.3-75.8-58.6-75.8-58.6
 	c46.9-98,49.8-131.3,48.6-141.5C586.1,159.2,541.1,117.7,448.1,192.2z M490.4,734.9c2.5-24,10.2-41.9,13.9-49.6
 	c0,0,47.8,16,46.9,84.8c0,0,3.4,41.6-36.1,13.6l-19.1-16C495.9,767.6,487.9,758.9,490.4,734.9z"/>
-<path id="glare_1_" class="st2" d="M146.4,854.1c-195.3-195.3-195.3-511.8,0-707.1s511.8-195.3,707.1,0
+<path id="glare" class="st2" d="M146.4,854.1c-195.3-195.3-195.3-511.8,0-707.1s511.8-195.3,707.1,0
 	C682.1,446.2,441.2,676.8,146.4,854.1z"/>
 </svg>
